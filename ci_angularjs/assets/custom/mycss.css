@@ -1,0 +1,27 @@
+/*
+***************************************************************
+Script : 
+Version : 
+Date :
+Author : Pudyasto Adi W.
+Email : mr.pudyasto@gmail.com
+Description : 
+***************************************************************
+*/
+/* 
+    Created on : May 1, 2015, 2:08:54 PM
+    Author     : pudyasto
+*/
+
+.color-grey{
+    background-color: #F7F7F7;
+}
+
+.navbar {
+  box-shadow: 0 2px 2px rgba(0,0,0,0.05), 0 1px 0 rgba(0,0,0,0.05);
+}
+
+body{
+    min-width: 600px;
+    overflow-x: auto;
+}
